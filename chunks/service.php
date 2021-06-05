@@ -25,7 +25,7 @@
                     <div class="col-md-4 col-sm-12">
                         <div class="mh-service-item shadow-1 dark-bg wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.7s">
                             <i class="fas fa-object-ungroup yellow-color"></i>
-                            <h3>Web Software Development</h3>
+                            <h3>Web Application Development</h3>
                             <p>
                                 Building Useful and Functional Web Apps/Softwares Using PHP, Laravel and MySQL.
                             </p>
@@ -45,7 +45,7 @@
                         <i class="fas fa-images green-color"></i>
                             <h3>Graphic Designing</h3>
                             <p>
-                                Designing and Editing Graphic Contents for Websites using Adobe Photoshop.
+                                Designing and Editing Graphic Contents for Websites using Adobe Photoshop and Illustrator.
                             </p>
                         </div>
                     </div>

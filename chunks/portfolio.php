@@ -42,15 +42,16 @@
                                 </div>
                                 <div class="grid-item col-md-4 col-sm-6 col-xs-12 branding">
                                     <figure>
-                                        <img src="./assets/images/portfolio/hungry.jpg" alt="img04">
+                                        <img src="./assets/images/portfolio/kamini.png" alt="img">
                                         <figcaption class="fig-caption">
                                             <i class="fa fa-search"></i>
-                                            <h5 class="title">Hungry Cuisine</h5>
-                                            <span class="sub-title">Food Delivery Service</span>
-                                            <a href="http://hungrycuisine.rf.gd/" target="_blank"></a>
+                                            <h5 class="title">Kamini Dressmart</h5>
+                                            <span class="sub-title">An Online Boutique Shop</span>
+                                            <a href="https://kaminidressmart.com/" target="_blank"></a>
                                         </figcaption>
                                     </figure>
                                 </div>
+                                
                                 <div class="grid-item col-md-4 col-sm-6 col-xs-12 branding">
                                     <figure>
                                         <img src="./assets/images/portfolio/oxdora_old.jpg" alt="img04">
@@ -75,6 +76,17 @@
                                 </div>
                                 <div class="grid-item col-md-4 col-sm-6 col-xs-12 branding">
                                     <figure>
+                                        <img src="./assets/images/portfolio/hungry.jpg" alt="img04">
+                                        <figcaption class="fig-caption">
+                                            <i class="fa fa-search"></i>
+                                            <h5 class="title">Hungry Cuisine</h5>
+                                            <span class="sub-title">Food Delivery Service</span>
+                                            <a href="http://hungrycuisine.rf.gd/" target="_blank"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                                <div class="grid-item col-md-4 col-sm-6 col-xs-12 branding">
+                                    <figure style="box-shadow: 0 0 10px 0 black;">
                                         <img src="./assets/images/portfolio/resume.jpg" alt="img04">
                                         <figcaption class="fig-caption">
                                             <i class="fa fa-search"></i>

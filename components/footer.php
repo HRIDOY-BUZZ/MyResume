@@ -6,7 +6,7 @@
                             <div class="row">
                                 <div class="col-sm-6">
                                     <div class="text-left text-xs-center">
-                                       <p>Copyright <i class="far fa-copyright"></i> 2021, <a href="#"> Al-Amin Islam Hridoy</a></p>
+                                       <p>Copyright <i class="far fa-copyright"></i> <?php echo date('Y'); ?>, <a href="#"> Al-Amin Islam Hridoy</a></p>
                                     </div>
                                 </div>
                                 <div class="col-sm-6">

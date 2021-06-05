@@ -36,10 +36,10 @@
                                         <div class="parcial">
                                             <div class="info">
                                                 <div class="nome">JQuery</div>
-                                                <div class="percentagem-num">64%</div>
+                                                <div class="percentagem-num">55%</div>
                                             </div>
                                             <div class="progressBar">
-                                                <div class="percentagem" style="width: 64%;"></div>
+                                                <div class="percentagem" style="width: 55%;"></div>
                                             </div>
                                         </div>
                                     </div>
@@ -133,10 +133,10 @@
                                         <div class="parcial">
                                             <div class="info">
                                                 <div class="nome">JavaSCRIPT</div>
-                                                <div class="percentagem-num">55%</div>
+                                                <div class="percentagem-num">65%</div>
                                             </div>
                                             <div class="progressBar">
-                                                <div class="percentagem" style="width: 55%;"></div>
+                                                <div class="percentagem" style="width: 65%;"></div>
                                             </div>
                                         </div>
                                     </div>
