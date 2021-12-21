@@ -3,7 +3,7 @@
 	// Enter your MySQL username below(default=root)
 	$username = "root";
 	// Enter your MySQL password below
-	$password = "";
+	$password = "root";
 	// Enter your MySQL Database Name below
 	$dbname = "myresume";
 
