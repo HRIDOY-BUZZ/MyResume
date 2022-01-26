@@ -1,11 +1,13 @@
 <?php
     $servername = "localhost";
-	// Enter your MySQL username below(default=root)
 	$username = "root";
-	// Enter your MySQL password below
 	$password = "root";
-	// Enter your MySQL Database Name below
 	$dbname = "myresume";
+
+	// $servername = "sql106.epizy.com";
+	// $username = "epiz_27522861";
+	// $password = "BUZZ615727";
+	// $dbname = "epiz_27522861_myresume";
 
 	// Create connection
 	$conn = new mysqli($servername, $username, $password, $dbname);
