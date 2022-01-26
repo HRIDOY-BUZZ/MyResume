@@ -28,8 +28,8 @@
                                         </div>
                                         <div class="each-info">
                                             <h4>Email</h4>
-                                            <a href="mailto:yourmail@email.com">hridoy.ewu16@gmail.com</a><br>
-                                            <a href="mailto:yourmail@email.com">ai.hridoy@oxdoraitech.com</a>
+                                            <a href="mailto:hridoy.ewu16@email.com">hridoy.ewu16@gmail.com</a><br>
+                                            <a href="mailto:alaminislamhridoy@email.com">alaminislamhridoy@gmail.com</a>
                                         </div>
                                     </div>
                                 </div>
@@ -40,7 +40,7 @@
                                         </div>
                                         <div class="each-info">
                                             <h4>Phone</h4>
-                                            <a href="callto:+8801907075935">+880 1907 075935</a><br>
+                                            <a href="callto:+8801907075935">+880 1521 326125</a><br>
                                             <a href="callto:+8801677472329">+880 1677 472329</a>
                                         </div>
                                     </div>

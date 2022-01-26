@@ -4,7 +4,7 @@
                     <div class="row section-separator">
                         <div class="col-sm-12 col-md-6">
                             <div class="mh-education">
-                                 <h3 class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s">Education</h3>
+                                <h3 class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s">Education</h3>
                                 <div class="mh-education-deatils">
                                     <!-- Education Institutes-->
                                     <div class="mh-education-item dark-bg wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s">
@@ -48,7 +48,7 @@
                                 <div class="mh-experience-deatils">
                                     <!-- Workplace-->
                                     <div class="mh-work-item dark-bg wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s">
-                                        <h4>Web Developer @ <a href="http://xitsolution.com/">XiT Solutions BD</a></h4>
+                                        <h4>Full Stack Web Developer @ <a href="http://xitsolution.com/">XiT Solutions BD</a></h4>
                                         <div class="mh-eduyear">August 2021 - Present</div>
                                         <span>Responsibilities :</span>
                                         <ul class="work-responsibility">
@@ -70,8 +70,8 @@
                                     </div>      
                                     <!-- Workplace-->
                                     <div class="mh-work-item dark-bg wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s">
-                                        <h4>Web Developer @ <a href="http://oxdoraitech.com/">Oxdora I Tech</a></h4>
-                                        <div class="mh-eduyear">January 2021 - Present</div>
+                                        <h4>Full Stack Web Developer @ <a href="http://oxdoraitech.com/">Oxdora I Tech</a></h4>
+                                        <div class="mh-eduyear">January 2021 - July 2021</div>
                                         <span>Responsibilities :</span>
                                         <ul class="work-responsibility">
                                             <li><i class="fa fa-circle"></i>Web Front-end Development</li>
@@ -82,7 +82,7 @@
                                     <!-- Workplace-->
                                     <div class="mh-work-item dark-bg wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.6s">
                                         <h4>Campus Ambassador @ <a href="https://creativeitinstitute.com/">Creative It Institute</a></h4>
-                                        <div class="mh-eduyear">February 2020 - January 2021</div>
+                                        <div class="mh-eduyear">January 2020 - January 2021</div>
                                         <span>Responsibilities :</span>
                                         <ul class="work-responsibility">
                                             <li><i class="fa fa-circle"></i>Let everyone know about the importance and benefits of IT courses</li>

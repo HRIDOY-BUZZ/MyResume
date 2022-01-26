@@ -10,9 +10,13 @@
                         <div class="mh-about-inner">
                             <h2 class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.1s">About Me</h2>
                             <p class="wow fadeInUp text-justified" data-wow-duration="0.8s" data-wow-delay="0.2s">
-                                Graduated in Computer Science and Engineering from East West University, Aftabnagar, Dhaka in November 2020 and Started working as a Web Developer at Oxdora I Tech from January 2021. I don't rely on my certificates or courses. I love coding and problem
-                                solving so I keep doing so no matter what the Language is. I'm most comfortable in HTML, CSS, Bootstrap and PHP and Wordpress. But I use some other languages too (mostly when I'm bored). I am a fast learner
-                                and always keen to learn new things. Also, I'm very handy with Electric and Electronics stuffs.
+                                Graduated in Computer Science and Engineering from East West University, Aftabnagar, 
+                                Dhaka in November 2020 and then worked as a Web Developer in three different companies starting from January 2021. 
+                                I don't rely on my certificates or courses. I love coding and solving problems.
+                                So I keep doing so no matter what the Language is. I'm most comfortable in HTML, CSS, 
+                                Bootstrap, PHP (raw), Laravel and Wordpress. But I use some other languages too (mostly when I'm bored). 
+                                I am a fast learner and always keen to learn new things. Also, I'm very handy with Electric and Electronics stuffs.
+                                I also tried Robotics with Arduino for a long time and tried to build some some robotic figures.
                             </p>
                             <div class="mh-about-tag wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s">
                                 <ul>
